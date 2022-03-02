@@ -1,0 +1,5 @@
+cd Desktop/hw4-code
+conda create -n hw4 python=3.9
+conda activate hw4
+pip install -r requirements.txt
+jupyter notebook
